@@ -1,1 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>BloxTools</title>
+    <meta name="description" content="Lovable Generated Project" />
+    <meta name="author" content="Lovable" />
+
+    <meta property="og:title" content="Roblox Tools" />
+    <meta property="og:description" content="Free and simple to use!" />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjcA_5rHcvPiP6TPwrtne-C5miKKgvLSpE0Q&s" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="ee" />
+    <meta name="twitter:image" content="ee" />
+  </head>
+
+  <body>
+    <div id="root"></div>
+    
+    <script src="https://cdn.gpteng.co/gptengineer.js" type="module"></script>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
 
